@@ -15,6 +15,11 @@ h4,
 h5,
 h6 {
   font-family: "Raleway", sans-serif;
+  color: hsl(243, 87%, 12%);
+}
+
+p {
+  color: hsl(243, 87%, 12%);
 }
 
 /* font-family: 'Raleway', sans-serif; */
