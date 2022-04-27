@@ -16,7 +16,6 @@ export const ContentWrapper = styled.div`
   margin: 0 auto;
   margin-top: 3rem;
   display: flex;
-  /* align-items: center; */
   justify-content: space-between;
 `;
 
